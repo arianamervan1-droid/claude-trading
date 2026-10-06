@@ -33,3 +33,15 @@ def test_backtest_runs():
         px *= 1 + random.gauss(0.0004, 0.01); d.append(px)
     res = backtest(Config(symbols=["X"]), {"X": d})
     assert res["days"] > 0 and res["max_drawdown_pct"] >= 0
+
+
+def test_control_roundtrip(tmp_path, monkeypatch):
+    import importlib, bot.control as c
+    monkeypatch.setenv("BOT_CONTROL_FILE", str(tmp_path / "c.json"))
+    monkeypatch.setenv("BOT_STATUS_FILE", str(tmp_path / "s.json"))
+    c = importlib.reload(c)
+    assert c.read_control()["paused"] is False
+    c.update_control(paused=True)
+    assert c.read_control()["paused"] is True and c.read_control()["stop"] is False
+    c.write_status(equity=1)
+    assert c.read_status()["equity"] == 1

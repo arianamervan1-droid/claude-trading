@@ -38,6 +38,19 @@ Robinhood has no official stock-trading API. This uses the unofficial `robin_sto
 violate Robinhood's terms; automated logins can also trigger security locks. Use a strong unique password and 2FA.
 Robinhood's official **Crypto** API is the supported route if you want a sanctioned integration.
 
+## Controlling the bot
+
+Run the bot in one terminal (`python -m bot.main`), then control it from another:
+
+| Command | Effect |
+|---|---|
+| `python -m bot.ctl status` | mode, equity, positions, last actions |
+| `python -m bot.ctl pause` / `resume` | stop / restart all trading (positions stay open) |
+| `python -m bot.ctl flatten` | sell every position, then pause |
+| `python -m bot.ctl stop` | shut the bot down (positions stay open) |
+
+You can also press Ctrl+C or log in to Robinhood and close positions yourself at any time. Keep the app on your phone.
+
 ## Before going live
 
 1. Backtest on real historical data (`bot/backtest.py`) and look at max drawdown, not just return.
