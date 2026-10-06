@@ -1,7 +1,8 @@
 # $20k/month Pipeline
 
-Target: $20,000/month combined from 2 stores + 1 platform (Fanvue). Split: stores $8-12k, platform $8-12k.
-Fanvue chats and account policy are handled by the owner; this pipeline covers content, offers, analytics, and store ops only.
+Target: $20,000/month combined from 2 stores + 1 platform (stashly.org). Working split: stores $8-12k, platform $8-12k (to refine once Stashly's model is known).
+Fanvue (@that_lily) is treated as a traffic/revenue channel; its chats and account policy are handled by the owner.
+This pipeline covers content, offers, analytics, and store/platform ops only.
 
 ## Weekly loop
 1. **Mon - Report**: pull Shopify (ShopifyQL: sales, sessions, conversion, top products, referrers) and Fanvue earnings summary; compare to weekly goal ($4.6k = 20k/4.33).
@@ -22,7 +23,8 @@ Fanvue chats and account policy are handled by the owner; this pipeline covers c
 | Stream | Goal | Drivers |
 |---|---|---|
 | Store A+B | $8-12k | ~250-400 orders x $40 AOV; 15-25k visits at 1.5-2% CVR |
-| Fanvue | $8-12k | ~400-600 subs x $15-20 + tips/PPV; traffic from IG/TikTok/X |
+| Stashly (platform) | $8-12k | TBD: depends on Stashly's revenue model (fees, subscriptions, sales) |
+| Fanvue (channel) | included above | ~400-600 subs x $15-20 + tips/PPV; traffic from IG/TikTok/X |
 
 ## Milestones
 - Month 1: stores live, content engine running, first $2-4k
