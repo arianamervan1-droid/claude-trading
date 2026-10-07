@@ -28,8 +28,9 @@ This pipeline covers content, offers, analytics, and store/platform ops only.
 
 ## Starting point (confirmed by owner)
 - Current revenue: $0. Everything is pre-launch.
-- Ad budget: $0, so growth is organic only until first revenue is reinvested.
-- Stashly (stashly.org): revenue model not yet defined.
+- Ad budget: small, $5-10 test spends here and there.
+- Stashly (stashly.org): two-sided marketplace (buyers + sellers, eBay-style).
+- Sweat Cult (Shopify, trial plan): 23 products (gym wear: tees, hoodies, accessories; Printify print-on-demand + eprolo dropship), 1 collection. Goal: first buyer before the trial ends.
 
 ## Zero-budget playbook
 1. **Pick one offer per property** and one primary channel; do not spread thin.
@@ -38,6 +39,21 @@ This pipeline covers content, offers, analytics, and store/platform ops only.
 4. **Email capture** from day one (Klaviyo list); weekly email to the list.
 5. **Reinvest rule**: first $500 of revenue goes to the best-performing channel (ads or tools); the rest to upgrading the Shopify plan.
 6. **Stashly**: define the revenue model (what is sold, to whom, at what price), then a launch page, waitlist, and first 10 paying users by hand.
+
+## Sweat Cult: first-buyer sprint (14 days)
+Store facts: price points $9-$94; best entry offers are tees ~$34, notebook/sticker add-ons. Only 1 collection with 1 product, so the storefront needs structure first.
+1. **Days 1-2 (store)**: collections (Tees, Hoodies, Accessories, Women's), feature 3 hero products (graphic tees $34, women's boxy tee $40, tumbler), a first-order code (10-15%), clear shipping/returns page, check checkout works on the current plan.
+2. **Days 3-5 (warm traffic)**: DM/post to friends, gym groups, Reddit/Facebook fitness communities (follow their rules); goal: first buyer without ad spend.
+3. **Days 3-14 (ads, $5-10 each)**: one test per hero product, interest-targeted (gym/bodybuilding apparel), video or lifestyle creative; kill if no add-to-carts after ~$7; keep what gets clicks and carts.
+4. **Daily**: check sessions, add-to-cart, checkout reached; fix the biggest drop-off first.
+Note: trial stores generally cannot take real orders until a plan is chosen; decide on the plan (or a discounted first-months offer) before ad spend goes live.
+
+## Stashly (marketplace) launch
+- Hard part is the chicken-and-egg: start with SELLERS (their listings attract buyers). Recruit 10-20 sellers by hand, seed 100+ listings.
+- Pick one niche to start (e.g. gym gear, collectibles) instead of "everything".
+- Revenue model: pick a seller fee (e.g. 5-10% of sale) once there are transactions; free listing at launch.
+- Cross-promote: Sweat Cult customers/community as first buyers and sellers.
+- Trust: clear buyer protection, seller profiles, reviews, dispute process.
 
 ## Milestones (realistic, organic-only)
 - Month 1: offers defined, stores/platform live, content habit, first sales ($0-500)
