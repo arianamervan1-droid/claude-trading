@@ -16,7 +16,8 @@ def test_risk_caps():
     c = Config(); r = RiskManager(c)
     assert r.buy_amount(10_000, 10_000, 0, 0) == 2000.0
     assert r.buy_amount(10_000, 10_000, 0, 7_900) == 100.0
-    assert r.buy_amount(10_000, 3, 0, 0) == 0.0
+    assert r.buy_amount(10_000, 0.5, 0, 0) == 0.0
+    assert r.buy_amount(40, 40, 0, 0) == 8.0
 
 
 def test_kill_switch_and_stop():
