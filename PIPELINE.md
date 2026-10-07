@@ -26,7 +26,21 @@ This pipeline covers content, offers, analytics, and store/platform ops only.
 | Stashly (platform) | $8-12k | TBD: depends on Stashly's revenue model (fees, subscriptions, sales) |
 | Fanvue (channel) | included above | ~400-600 subs x $15-20 + tips/PPV; traffic from IG/TikTok/X |
 
-## Milestones
-- Month 1: stores live, content engine running, first $2-4k
-- Month 2: scale winning ads/content, email flows live, $8-12k
-- Month 3: $15-20k, optimize margins
+## Starting point (confirmed by owner)
+- Current revenue: $0. Everything is pre-launch.
+- Ad budget: $0, so growth is organic only until first revenue is reinvested.
+- Stashly (stashly.org): revenue model not yet defined.
+
+## Zero-budget playbook
+1. **Pick one offer per property** and one primary channel; do not spread thin.
+2. **Organic content**: 1-2 short videos/day on one channel, 3 repurposed cross-posts. Every post carries a tracking link.
+3. **Direct outreach**: 20 personalized messages/day (collabs, communities, partners).
+4. **Email capture** from day one (Klaviyo list); weekly email to the list.
+5. **Reinvest rule**: first $500 of revenue goes to the best-performing channel (ads or tools); the rest to upgrading the Shopify plan.
+6. **Stashly**: define the revenue model (what is sold, to whom, at what price), then a launch page, waitlist, and first 10 paying users by hand.
+
+## Milestones (realistic, organic-only)
+- Month 1: offers defined, stores/platform live, content habit, first sales ($0-500)
+- Months 2-3: repeatable channel, email flows, $500-3k/mo
+- Months 4-8: reinvest into ads/partnerships, $3-10k/mo
+- Months 9-12+: $10-20k/mo. $20k/mo is a 9-18 month goal from zero, not a month-1 outcome.
